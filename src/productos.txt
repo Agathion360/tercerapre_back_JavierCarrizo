@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Laptop HP",
+    "description": "Potente laptop para tareas profesionales.",
+    "price": 10899,
+    "thumbnail": "imagen_hp.jpg",
+    "code": "hp1234",
+    "stock": 15,
+    "id": 1
+  },
+  {
+    "title": "Mouse Logitech",
+    "description": "Preciso mouse inalámbrico para gaming.",
+    "price": 3520,
+    "thumbnail": "imagen_logitech.jpg",
+    "code": "logi568",
+    "stock": 50,
+    "id": 2
+  },
+  {
+    "title": "Monitor Samsung",
+    "description": "Pantalla curva de alta resolución para multitarea.",
+    "price": 184390,
+    "thumbnail": "imagen_samsung.jpg",
+    "code": "samsung9876",
+    "stock": 8,
+    "id": 3
+  },
+  {
+    "title": "Teclado Corsair",
+    "description": "Teclado mecánico RGB para jugadores exigentes.",
+    "price": 12673,
+    "thumbnail": "imagen_corsair.jpg",
+    "code": "corsair5432",
+    "stock": 20,
+    "id": 4
+  }
+]
